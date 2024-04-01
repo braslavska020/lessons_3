@@ -1,0 +1,47 @@
+@import url("reset.css");
+
+h1,
+h2 {
+  color: red;
+}
+
+h3 {
+  color: rgba(173, 4, 69, 0.786);
+}
+
+div {
+  padding-bottom: 50px;
+}
+
+.list {
+  color: blue;
+}
+
+.text {
+  color: green;
+}
+
+.text__list {
+  line-height: 25px;
+  color: rgb(115, 2, 147);
+}
+
+.text__link {
+  color: blueviolet;
+}
+
+.text__link .link {
+  color: brown;
+}
+
+.random__text .title {
+  color: rgba(30, 128, 0, 0.779);
+}
+
+.random__text .text {
+  color: rgb(179, 113, 7);
+}
+
+img {
+  width: 440px;
+}
